@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="background_color">#FFFFFFFF</color> <!-- 使用8位表示法 -->
+    <color name="text_primary">#000000</color>
+    <color name="text_secondary">#757575</color>
+    <color name="button_background">#FF9800</color>
+    <color name="button_text">#FFFFFF</color>
+    <color name="submit_button_background">#4CAF50</color>
+    <color name="submit_button_text">#FFFFFF</color>
+
+
+    <color name="purple_500">#811313</color>
+    <color name="purple_700">#FFFFFF</color>
+    <color name="teal_200">#FFFFFF</color>
+    <color name="teal_700">#FFFFFF</color>
+    <color name="purple_200">#FFFFFF</color>
+</resources>
